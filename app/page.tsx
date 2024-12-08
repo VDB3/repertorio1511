@@ -5,7 +5,7 @@ export default function Home() {
     <Link href={"/other"}>
   <h2> 
     home page
-  </h2>
+  </h2 >
     </Link>
   );
 }
